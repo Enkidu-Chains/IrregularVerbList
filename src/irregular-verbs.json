@@ -1,0 +1,1202 @@
+[
+	{
+		"Base": "Abide",
+		"PastSimple": "Abode/Abided",
+		"PastParticiple": "Abode/Abided/Abidden",
+		"GerundAndPresentParticiple": "Abiding"
+	},
+	{
+		"Base": "Alight",
+		"PastSimple": "Alit",
+		"PastParticiple": "Alit/Alighted",
+		"GerundAndPresentParticiple": "Alighting"
+	},
+	{
+		"Base": "Arise",
+		"PastSimple": "Arose",
+		"PastParticiple": "Arisen",
+		"GerundAndPresentParticiple": "Arising"
+	},
+	{
+		"Base": "Awake",
+		"PastSimple": "Awoke",
+		"PastParticiple": "Awoken",
+		"GerundAndPresentParticiple": "Awaking"
+	},
+	{
+		"Base": "Be",
+		"PastSimple": "Was/Were",
+		"PastParticiple": "Been",
+		"GerundAndPresentParticiple": "Being"
+	},
+	{
+		"Base": "Bear",
+		"PastSimple": "Bore",
+		"PastParticiple": "Borne",
+		"GerundAndPresentParticiple": "Bearing"
+	},
+	{
+		"Base": "Beat",
+		"PastSimple": "Beat",
+		"PastParticiple": "Beaten",
+		"GerundAndPresentParticiple": "Beating"
+	},
+	{
+		"Base": "Become",
+		"PastSimple": "Became",
+		"PastParticiple": "Become",
+		"GerundAndPresentParticiple": "Becoming"
+	},
+	{
+		"Base": "Begin",
+		"PastSimple": "Began",
+		"PastParticiple": "Begun",
+		"GerundAndPresentParticiple": "Beginning"
+	},
+	{
+		"Base": "Behold",
+		"PastSimple": "Beheld",
+		"PastParticiple": "Beheld",
+		"GerundAndPresentParticiple": "Beholding"
+	},
+	{
+		"Base": "Bend",
+		"PastSimple": "Bent",
+		"PastParticiple": "Bent",
+		"GerundAndPresentParticiple": "Bending"
+	},
+	{
+		"Base": "Bet",
+		"PastSimple": "Bet",
+		"PastParticiple": "Bet",
+		"GerundAndPresentParticiple": "Betting"
+	},
+	{
+		"Base": "Bid",
+		"PastSimple": "Bade",
+		"PastParticiple": "Bidden",
+		"GerundAndPresentParticiple": "Bidding"
+	},
+	{
+		"Base": "Bind",
+		"PastSimple": "Bind",
+		"PastParticiple": "Bound",
+		"GerundAndPresentParticiple": "Binding"
+	},
+	{
+		"Base": "Bite",
+		"PastSimple": "Bit",
+		"PastParticiple": "Bitten",
+		"GerundAndPresentParticiple": "Biting"
+	},
+	{
+		"Base": "Bleed",
+		"PastSimple": "Bled",
+		"PastParticiple": "Bled",
+		"GerundAndPresentParticiple": "Bleeding"
+	},
+	{
+		"Base": "Blow",
+		"PastSimple": "Blew",
+		"PastParticiple": "Blown",
+		"GerundAndPresentParticiple": "Blowing"
+	},
+	{
+		"Base": "Break",
+		"PastSimple": "Broke",
+		"PastParticiple": "Broken",
+		"GerundAndPresentParticiple": "Breaking"
+	},
+	{
+		"Base": "Breed",
+		"PastSimple": "Bred",
+		"PastParticiple": "Bred",
+		"GerundAndPresentParticiple": "Breeding"
+	},
+	{
+		"Base": "Bring",
+		"PastSimple": "Brought",
+		"PastParticiple": "Brought",
+		"GerundAndPresentParticiple": "Bringing"
+	},
+	{
+		"Base": "Build",
+		"PastSimple": "Built",
+		"PastParticiple": "Built",
+		"GerundAndPresentParticiple": "Building"
+	},
+	{
+		"Base": "Burn",
+		"PastSimple": "Burnt",
+		"PastParticiple": "Burnt",
+		"GerundAndPresentParticiple": "Burning"
+	},
+	{
+		"Base": "Burst",
+		"PastSimple": "Burst",
+		"PastParticiple": "Burst",
+		"GerundAndPresentParticiple": "Bursting"
+	},
+	{
+		"Base": "Bust",
+		"PastSimple": "Bust",
+		"PastParticiple": "Bust",
+		"GerundAndPresentParticiple": "Busting"
+	},
+	{
+		"Base": "Buy",
+		"PastSimple": "Bought",
+		"PastParticiple": "Bought",
+		"GerundAndPresentParticiple": "Buying"
+	},
+	{
+		"Base": "Cast",
+		"PastSimple": "Cast",
+		"PastParticiple": "Cast",
+		"GerundAndPresentParticiple": "Casting"
+	},
+	{
+		"Base": "Catch",
+		"PastSimple": "Caught",
+		"PastParticiple": "Caught",
+		"GerundAndPresentParticiple": "Catching"
+	},
+	{
+		"Base": "Choose",
+		"PastSimple": "Chose",
+		"PastParticiple": "Chosen",
+		"GerundAndPresentParticiple": "Choosing"
+	},
+	{
+		"Base": "Cling",
+		"PastSimple": "Clung",
+		"PastParticiple": "Clung",
+		"GerundAndPresentParticiple": "Clinging"
+	},
+	{
+		"Base": "Clothe",
+		"PastSimple": "Clad",
+		"PastParticiple": "Clad",
+		"GerundAndPresentParticiple": "Clothing"
+	},
+	{
+		"Base": "Come",
+		"PastSimple": "Came",
+		"PastParticiple": "Come",
+		"GerundAndPresentParticiple": "Coming"
+	},
+	{
+		"Base": "Cost",
+		"PastSimple": "Cost",
+		"PastParticiple": "Cost",
+		"GerundAndPresentParticiple": "Costing"
+	},
+	{
+		"Base": "Creep",
+		"PastSimple": "Crept",
+		"PastParticiple": "Crept",
+		"GerundAndPresentParticiple": "Creeping"
+	},
+	{
+		"Base": "Cut",
+		"PastSimple": "Cut",
+		"PastParticiple": "Cut",
+		"GerundAndPresentParticiple": "Cutting"
+	},
+	{
+		"Base": "Deal",
+		"PastSimple": "Dealt",
+		"PastParticiple": "Dealt",
+		"GerundAndPresentParticiple": "Dealing"
+	},
+	{
+		"Base": "Dig",
+		"PastSimple": "Dug",
+		"PastParticiple": "Dug",
+		"GerundAndPresentParticiple": "Digging"
+	},
+	{
+		"Base": "Dive",
+		"PastSimple": "Dove/Dived",
+		"PastParticiple": "Dove/Dived",
+		"GerundAndPresentParticiple": "Diving"
+	},
+	{
+		"Base": "Do",
+		"PastSimple": "Did",
+		"PastParticiple": "Done",
+		"GerundAndPresentParticiple": "Doing"
+	},
+	{
+		"Base": "Draw",
+		"PastSimple": "Drew",
+		"PastParticiple": "Drawn",
+		"GerundAndPresentParticiple": "Drawing"
+	},
+	{
+		"Base": "Dream",
+		"PastSimple": "Dreamt",
+		"PastParticiple": "Dreamt",
+		"GerundAndPresentParticiple": "Dreaming"
+	},
+	{
+		"Base": "Drink",
+		"PastSimple": "Drank",
+		"PastParticiple": "Drunk",
+		"GerundAndPresentParticiple": "Drinking"
+	},
+	{
+		"Base": "Drive",
+		"PastSimple": "Drove",
+		"PastParticiple": "Driven",
+		"GerundAndPresentParticiple": "Driving"
+	},
+	{
+		"Base": "Dwell",
+		"PastSimple": "Dwelt",
+		"PastParticiple": "Dwelt",
+		"GerundAndPresentParticiple": "Dwelling"
+	},
+	{
+		"Base": "Eat",
+		"PastSimple": "Ate",
+		"PastParticiple": "Eaten",
+		"GerundAndPresentParticiple": "Eating"
+	},
+	{
+		"Base": "Fall",
+		"PastSimple": "Fell",
+		"PastParticiple": "Fallen",
+		"GerundAndPresentParticiple": "Falling"
+	},
+	{
+		"Base": "Feed",
+		"PastSimple": "Fed",
+		"PastParticiple": "Fed",
+		"GerundAndPresentParticiple": "Feeding"
+	},
+	{
+		"Base": "Feel",
+		"PastSimple": "Felt",
+		"PastParticiple": "Felt",
+		"GerundAndPresentParticiple": "Feeling"
+	},
+	{
+		"Base": "Fight",
+		"PastSimple": "Fought",
+		"PastParticiple": "Fought",
+		"GerundAndPresentParticiple": "Fighting"
+	},
+	{
+		"Base": "Find",
+		"PastSimple": "Found",
+		"PastParticiple": "Found",
+		"GerundAndPresentParticiple": "Finding"
+	},
+	{
+		"Base": "Fit",
+		"PastSimple": "Fit",
+		"PastParticiple": "Fit",
+		"GerundAndPresentParticiple": "Fitting"
+	},
+	{
+		"Base": "Flee",
+		"PastSimple": "Fled",
+		"PastParticiple": "Fled",
+		"GerundAndPresentParticiple": "Fleeing"
+	},
+	{
+		"Base": "Fling",
+		"PastSimple": "Flung",
+		"PastParticiple": "Flung",
+		"GerundAndPresentParticiple": "Flinging"
+	},
+	{
+		"Base": "Fly",
+		"PastSimple": "Flew",
+		"PastParticiple": "Flown",
+		"GerundAndPresentParticiple": "Flying"
+	},
+	{
+		"Base": "Forbid",
+		"PastSimple": "Forbade",
+		"PastParticiple": "Forbidden",
+		"GerundAndPresentParticiple": "Forbidding"
+	},
+	{
+		"Base": "Foresee",
+		"PastSimple": "Foresaw",
+		"PastParticiple": "Foreseen",
+		"GerundAndPresentParticiple": "Foreseeing"
+	},
+	{
+		"Base": "Forget",
+		"PastSimple": "Forgot",
+		"PastParticiple": "Forgotten",
+		"GerundAndPresentParticiple": "Forgetting"
+	},
+	{
+		"Base": "Forgive",
+		"PastSimple": "Forgave",
+		"PastParticiple": "Forgiven",
+		"GerundAndPresentParticiple": "Forgiving"
+	},
+	{
+		"Base": "Forsake",
+		"PastSimple": "Forsook",
+		"PastParticiple": "Forsaken",
+		"GerundAndPresentParticiple": "Forsaking"
+	},
+	{
+		"Base": "Freeze",
+		"PastSimple": "Froze",
+		"PastParticiple": "Frozen",
+		"GerundAndPresentParticiple": "Freezing"
+	},
+	{
+		"Base": "Frostbite",
+		"PastSimple": "Frostbit",
+		"PastParticiple": "Frostbitten",
+		"GerundAndPresentParticiple": "Frostbiting"
+	},
+	{
+		"Base": "Get",
+		"PastSimple": "Got",
+		"PastParticiple": "Got",
+		"GerundAndPresentParticiple": "Getting"
+	},
+	{
+		"Base": "Give",
+		"PastSimple": "Gave",
+		"PastParticiple": "Given",
+		"GerundAndPresentParticiple": "Giving"
+	},
+	{
+		"Base": "Go",
+		"PastSimple": "Went",
+		"PastParticiple": "Gone",
+		"GerundAndPresentParticiple": "Going"
+	},
+	{
+		"Base": "Grind",
+		"PastSimple": "Ground",
+		"PastParticiple": "Ground",
+		"GerundAndPresentParticiple": "Grinding"
+	},
+	{
+		"Base": "Grow",
+		"PastSimple": "Grew",
+		"PastParticiple": "Grown",
+		"GerundAndPresentParticiple": "Growing"
+	},
+	{
+		"Base": "Handwrite",
+		"PastSimple": "Handwrote",
+		"PastParticiple": "Handwritten",
+		"GerundAndPresentParticiple": "Handwriting"
+	},
+	{
+		"Base": "Hang",
+		"PastSimple": "Hung",
+		"PastParticiple": "Hung",
+		"GerundAndPresentParticiple": "Hanging"
+	},
+	{
+		"Base": "Have",
+		"PastSimple": "Had",
+		"PastParticiple": "Had",
+		"GerundAndPresentParticiple": "Having"
+	},
+	{
+		"Base": "Hear",
+		"PastSimple": "Heard",
+		"PastParticiple": "Heard",
+		"GerundAndPresentParticiple": "Hearing"
+	},
+	{
+		"Base": "Hide",
+		"PastSimple": "Hid",
+		"PastParticiple": "Hidden",
+		"GerundAndPresentParticiple": "Hiding"
+	},
+	{
+		"Base": "Hit",
+		"PastSimple": "Hit",
+		"PastParticiple": "Hit",
+		"GerundAndPresentParticiple": "Hitting"
+	},
+	{
+		"Base": "Hold",
+		"PastSimple": "Held",
+		"PastParticiple": "Held",
+		"GerundAndPresentParticiple": "Holding"
+	},
+	{
+		"Base": "Hurt",
+		"PastSimple": "Hurt",
+		"PastParticiple": "Hurt",
+		"GerundAndPresentParticiple": "Hurting"
+	},
+	{
+		"Base": "Inlay",
+		"PastSimple": "Inlaid",
+		"PastParticiple": "Inlaid",
+		"GerundAndPresentParticiple": "Inlaying"
+	},
+	{
+		"Base": "Keep",
+		"PastSimple": "Kept",
+		"PastParticiple": "Kept",
+		"GerundAndPresentParticiple": "Keeping"
+	},
+	{
+		"Base": "Kneel",
+		"PastSimple": "Knelt",
+		"PastParticiple": "Knelt",
+		"GerundAndPresentParticiple": "Kneeling"
+	},
+	{
+		"Base": "Knit",
+		"PastSimple": "Knit",
+		"PastParticiple": "Knit",
+		"GerundAndPresentParticiple": "Knitting"
+	},
+	{
+		"Base": "Know",
+		"PastSimple": "Knew",
+		"PastParticiple": "Known",
+		"GerundAndPresentParticiple": "Knowing"
+	},
+	{
+		"Base": "Lay",
+		"PastSimple": "Laid",
+		"PastParticiple": "Laid",
+		"GerundAndPresentParticiple": "Laying"
+	},
+	{
+		"Base": "Lead",
+		"PastSimple": "Led",
+		"PastParticiple": "Led",
+		"GerundAndPresentParticiple": "Leading"
+	},
+	{
+		"Base": "Lean",
+		"PastSimple": "Leant",
+		"PastParticiple": "Leant",
+		"GerundAndPresentParticiple": "Leaning"
+	},
+	{
+		"Base": "Leap",
+		"PastSimple": "Leapt",
+		"PastParticiple": "Leapt",
+		"GerundAndPresentParticiple": "Leaping"
+	},
+	{
+		"Base": "Learn",
+		"PastSimple": "Learnt",
+		"PastParticiple": "Learnt",
+		"GerundAndPresentParticiple": "Learning"
+	},
+	{
+		"Base": "Leave",
+		"PastSimple": "Left",
+		"PastParticiple": "Left",
+		"GerundAndPresentParticiple": "Leaving"
+	},
+	{
+		"Base": "Lend",
+		"PastSimple": "Lent",
+		"PastParticiple": "Lent",
+		"GerundAndPresentParticiple": "Lending"
+	},
+	{
+		"Base": "Let",
+		"PastSimple": "Let",
+		"PastParticiple": "Let",
+		"GerundAndPresentParticiple": "Letting"
+	},
+	{
+		"Base": "Lie",
+		"PastSimple": "Lay",
+		"PastParticiple": "Lain",
+		"GerundAndPresentParticiple": "Lying"
+	},
+	{
+		"Base": "Light",
+		"PastSimple": "Lit",
+		"PastParticiple": "Lit",
+		"GerundAndPresentParticiple": "Lighting"
+	},
+	{
+		"Base": "Lose",
+		"PastSimple": "Lost",
+		"PastParticiple": "Lost",
+		"GerundAndPresentParticiple": "Losing"
+	},
+	{
+		"Base": "Make",
+		"PastSimple": "Made",
+		"PastParticiple": "Made",
+		"GerundAndPresentParticiple": "Making"
+	},
+	{
+		"Base": "Mean",
+		"PastSimple": "Meant",
+		"PastParticiple": "Meant",
+		"GerundAndPresentParticiple": "Meaning"
+	},
+	{
+		"Base": "Meet",
+		"PastSimple": "Met",
+		"PastParticiple": "Met",
+		"GerundAndPresentParticiple": "Meeting"
+	},
+	{
+		"Base": "Melt",
+		"PastSimple": "Melted",
+		"PastParticiple": "Molten",
+		"GerundAndPresentParticiple": "Melting"
+	},
+	{
+		"Base": "Mislead",
+		"PastSimple": "Misled",
+		"PastParticiple": "Misled",
+		"GerundAndPresentParticiple": "Misleading"
+	},
+	{
+		"Base": "Mistake",
+		"PastSimple": "Mistook",
+		"PastParticiple": "Mistaken",
+		"GerundAndPresentParticiple": "Mistaking"
+	},
+	{
+		"Base": "Misunderstand",
+		"PastSimple": "Misunderstood",
+		"PastParticiple": "Misunderstood",
+		"GerundAndPresentParticiple": "Misunderstanding"
+	},
+	{
+		"Base": "Mow",
+		"PastSimple": "Mowed",
+		"PastParticiple": "Mown",
+		"GerundAndPresentParticiple": "Mowing"
+	},
+	{
+		"Base": "Overdraw",
+		"PastSimple": "Overdrew",
+		"PastParticiple": "Overdrawn",
+		"GerundAndPresentParticiple": "Overdrawing"
+	},
+	{
+		"Base": "Overhear",
+		"PastSimple": "Overheard",
+		"PastParticiple": "Overheard",
+		"GerundAndPresentParticiple": "Overhearing"
+	},
+	{
+		"Base": "Overtake",
+		"PastSimple": "Overtook",
+		"PastParticiple": "Overtaken",
+		"GerundAndPresentParticiple": "Overtaking"
+	},
+	{
+		"Base": "Pay",
+		"PastSimple": "Paid",
+		"PastParticiple": "Paid",
+		"GerundAndPresentParticiple": "Paying"
+	},
+	{
+		"Base": "Preset",
+		"PastSimple": "Preset",
+		"PastParticiple": "Preset",
+		"GerundAndPresentParticiple": "Presetting"
+	},
+	{
+		"Base": "Prove",
+		"PastSimple": "Proved",
+		"PastParticiple": "Proven",
+		"GerundAndPresentParticiple": "Proving"
+	},
+	{
+		"Base": "Put",
+		"PastSimple": "Put",
+		"PastParticiple": "Put",
+		"GerundAndPresentParticiple": "Putting"
+	},
+	{
+		"Base": "Quit",
+		"PastSimple": "Quit",
+		"PastParticiple": "Quit",
+		"GerundAndPresentParticiple": "Quitting"
+	},
+	{
+		"Base": "Read",
+		"PastSimple": "Read",
+		"PastParticiple": "Read",
+		"GerundAndPresentParticiple": "Reading"
+	},
+	{
+		"Base": "Rid",
+		"PastSimple": "Rid",
+		"PastParticiple": "Rid",
+		"GerundAndPresentParticiple": "Ridding"
+	},
+	{
+		"Base": "Ride",
+		"PastSimple": "Rode",
+		"PastParticiple": "Ridden",
+		"GerundAndPresentParticiple": "Riding"
+	},
+	{
+		"Base": "Ring",
+		"PastSimple": "Rang",
+		"PastParticiple": "Rung",
+		"GerundAndPresentParticiple": "Ringing"
+	},
+	{
+		"Base": "Rise",
+		"PastSimple": "Rose",
+		"PastParticiple": "Risen",
+		"GerundAndPresentParticiple": "Rising"
+	},
+	{
+		"Base": "Rive",
+		"PastSimple": "Rived",
+		"PastParticiple": "Riven",
+		"GerundAndPresentParticiple": "Riving"
+	},
+	{
+		"Base": "Run",
+		"PastSimple": "Ran",
+		"PastParticiple": "Run",
+		"GerundAndPresentParticiple": "Running"
+	},
+	{
+		"Base": "Saw",
+		"PastSimple": "Sawed",
+		"PastParticiple": "Sawn",
+		"GerundAndPresentParticiple": "Sawing"
+	},
+	{
+		"Base": "Say",
+		"PastSimple": "Said",
+		"PastParticiple": "Said",
+		"GerundAndPresentParticiple": "Saying"
+	},
+	{
+		"Base": "See",
+		"PastSimple": "Saw",
+		"PastParticiple": "Seen",
+		"GerundAndPresentParticiple": "Seeing"
+	},
+	{
+		"Base": "Seek",
+		"PastSimple": "Sought",
+		"PastParticiple": "Sought",
+		"GerundAndPresentParticiple": "Seeking"
+	},
+	{
+		"Base": "Sell",
+		"PastSimple": "Sold",
+		"PastParticiple": "Sold",
+		"GerundAndPresentParticiple": "Selling"
+	},
+	{
+		"Base": "Send",
+		"PastSimple": "Sent",
+		"PastParticiple": "Sent",
+		"GerundAndPresentParticiple": "Sending"
+	},
+	{
+		"Base": "Set",
+		"PastSimple": "Set",
+		"PastParticiple": "Set",
+		"GerundAndPresentParticiple": "Setting"
+	},
+	{
+		"Base": "Sew",
+		"PastSimple": "Sewed",
+		"PastParticiple": "Sewn",
+		"GerundAndPresentParticiple": "Sewing"
+	},
+	{
+		"Base": "Shake",
+		"PastSimple": "Shook",
+		"PastParticiple": "Shaken",
+		"GerundAndPresentParticiple": "Shaking"
+	},
+	{
+		"Base": "Shave",
+		"PastSimple": "Shaved",
+		"PastParticiple": "Shaven",
+		"GerundAndPresentParticiple": "Shaving"
+	},
+	{
+		"Base": "Shear",
+		"PastSimple": "Shore",
+		"PastParticiple": "Shorn",
+		"GerundAndPresentParticiple": "Shearing"
+	},
+	{
+		"Base": "Shed",
+		"PastSimple": "Shed",
+		"PastParticiple": "Shed",
+		"GerundAndPresentParticiple": "Shedding"
+	},
+	{
+		"Base": "Shine",
+		"PastSimple": "Shone",
+		"PastParticiple": "Shone",
+		"GerundAndPresentParticiple": "Shining"
+	},
+	{
+		"Base": "Shoe",
+		"PastSimple": "Shod",
+		"PastParticiple": "Shod",
+		"GerundAndPresentParticiple": "Shoeing"
+	},
+	{
+		"Base": "Shoot",
+		"PastSimple": "Shot",
+		"PastParticiple": "Shot",
+		"GerundAndPresentParticiple": "Shooting"
+	},
+	{
+		"Base": "Show",
+		"PastSimple": "Showed",
+		"PastParticiple": "Shown",
+		"GerundAndPresentParticiple": "Showing"
+	},
+	{
+		"Base": "Shrink",
+		"PastSimple": "Shrank",
+		"PastParticiple": "Shrunk",
+		"GerundAndPresentParticiple": "Shrinking"
+	},
+	{
+		"Base": "Shut",
+		"PastSimple": "Shut",
+		"PastParticiple": "Shut",
+		"GerundAndPresentParticiple": "Shutting"
+	},
+	{
+		"Base": "Sing",
+		"PastSimple": "Sang",
+		"PastParticiple": "Sung",
+		"GerundAndPresentParticiple": "Singing"
+	},
+	{
+		"Base": "Sink",
+		"PastSimple": "Sank",
+		"PastParticiple": "Sunk",
+		"GerundAndPresentParticiple": "Sinking"
+	},
+	{
+		"Base": "Sit",
+		"PastSimple": "Sat",
+		"PastParticiple": "Sat",
+		"GerundAndPresentParticiple": "Sitting"
+	},
+	{
+		"Base": "Slay",
+		"PastSimple": "Slew",
+		"PastParticiple": "Slain",
+		"GerundAndPresentParticiple": "Slaying"
+	},
+	{
+		"Base": "Sleep",
+		"PastSimple": "Slept",
+		"PastParticiple": "Slept",
+		"GerundAndPresentParticiple": "Sleeping"
+	},
+	{
+		"Base": "Slide",
+		"PastSimple": "Slid",
+		"PastParticiple": "Slid",
+		"GerundAndPresentParticiple": "Sliding"
+	},
+	{
+		"Base": "Sling",
+		"PastSimple": "Slung",
+		"PastParticiple": "Slung",
+		"GerundAndPresentParticiple": "Slinging"
+	},
+	{
+		"Base": "Slink",
+		"PastSimple": "Slunk",
+		"PastParticiple": "Slunk",
+		"GerundAndPresentParticiple": "Slinking"
+	},
+	{
+		"Base": "Slit",
+		"PastSimple": "Slit",
+		"PastParticiple": "Slit",
+		"GerundAndPresentParticiple": "Slitting"
+	},
+	{
+		"Base": "Smell",
+		"PastSimple": "Smelt",
+		"PastParticiple": "Smelt",
+		"GerundAndPresentParticiple": "Smelling"
+	},
+	{
+		"Base": "Sneak",
+		"PastSimple": "Snuck",
+		"PastParticiple": "Snuck",
+		"GerundAndPresentParticiple": "Sneaking"
+	},
+	{
+		"Base": "Sow",
+		"PastSimple": "Sowed",
+		"PastParticiple": "Sown",
+		"GerundAndPresentParticiple": "Sowing"
+	},
+	{
+		"Base": "Speak",
+		"PastSimple": "Spoke",
+		"PastParticiple": "Spoken",
+		"GerundAndPresentParticiple": "Speaking"
+	},
+	{
+		"Base": "Speed",
+		"PastSimple": "Sped",
+		"PastParticiple": "Sped",
+		"GerundAndPresentParticiple": "Speeding"
+	},
+	{
+		"Base": "Spell",
+		"PastSimple": "Spelt",
+		"PastParticiple": "Spelt",
+		"GerundAndPresentParticiple": "Spelling"
+	},
+	{
+		"Base": "Spend",
+		"PastSimple": "Spent",
+		"PastParticiple": "Spent",
+		"GerundAndPresentParticiple": "Spending"
+	},
+	{
+		"Base": "Spill",
+		"PastSimple": "Spilt",
+		"PastParticiple": "Spilt",
+		"GerundAndPresentParticiple": "Spilling"
+	},
+	{
+		"Base": "Spin",
+		"PastSimple": "Span",
+		"PastParticiple": "Spun",
+		"GerundAndPresentParticiple": "Spinning"
+	},
+	{
+		"Base": "Spit",
+		"PastSimple": "Spat",
+		"PastParticiple": "Spat",
+		"GerundAndPresentParticiple": "Spitting"
+	},
+	{
+		"Base": "Split",
+		"PastSimple": "Split",
+		"PastParticiple": "Split",
+		"GerundAndPresentParticiple": "Splitting"
+	},
+	{
+		"Base": "Spoil",
+		"PastSimple": "Spoilt",
+		"PastParticiple": "Spoilt",
+		"GerundAndPresentParticiple": "Spoiling"
+	},
+	{
+		"Base": "Spread",
+		"PastSimple": "Spread",
+		"PastParticiple": "Spread",
+		"GerundAndPresentParticiple": "Spreading"
+	},
+	{
+		"Base": "Spring",
+		"PastSimple": "Sprang",
+		"PastParticiple": "Sprung",
+		"GerundAndPresentParticiple": "Springing"
+	},
+	{
+		"Base": "Stand",
+		"PastSimple": "Stood",
+		"PastParticiple": "Stood",
+		"GerundAndPresentParticiple": "Standing"
+	},
+	{
+		"Base": "Steal",
+		"PastSimple": "Stole",
+		"PastParticiple": "Stolen",
+		"GerundAndPresentParticiple": "Stealing"
+	},
+	{
+		"Base": "Stick",
+		"PastSimple": "Stick",
+		"PastParticiple": "Stuck",
+		"GerundAndPresentParticiple": "Sticking"
+	},
+	{
+		"Base": "Sting",
+		"PastSimple": "Stung",
+		"PastParticiple": "Stung",
+		"GerundAndPresentParticiple": "Stinging"
+	},
+	{
+		"Base": "Stink",
+		"PastSimple": "Stank",
+		"PastParticiple": "Stunk",
+		"GerundAndPresentParticiple": "Stinking"
+	},
+	{
+		"Base": "Stride",
+		"PastSimple": "Strode",
+		"PastParticiple": "Stridden",
+		"GerundAndPresentParticiple": "Striding"
+	},
+	{
+		"Base": "Strike",
+		"PastSimple": "Struck",
+		"PastParticiple": "Struck",
+		"GerundAndPresentParticiple": "Striking"
+	},
+	{
+		"Base": "String",
+		"PastSimple": "Strung",
+		"PastParticiple": "Strung",
+		"GerundAndPresentParticiple": "Stringing"
+	},
+	{
+		"Base": "Strip",
+		"PastSimple": "Stripped/Stript",
+		"PastParticiple": "Stripped/Stript",
+		"GerundAndPresentParticiple": "Stripping"
+	},
+	{
+		"Base": "Strive",
+		"PastSimple": "Strove",
+		"PastParticiple": "Striven",
+		"GerundAndPresentParticiple": "Striving"
+	},
+	{
+		"Base": "Sublet",
+		"PastSimple": "Sublet",
+		"PastParticiple": "Sublet",
+		"GerundAndPresentParticiple": "Subletting"
+	},
+	{
+		"Base": "Sunburn",
+		"PastSimple": "Sunburnt",
+		"PastParticiple": "Sunburnt",
+		"GerundAndPresentParticiple": "Sunburning"
+	},
+	{
+		"Base": "Swear",
+		"PastSimple": "Swore",
+		"PastParticiple": "Sworn",
+		"GerundAndPresentParticiple": "Swearing"
+	},
+	{
+		"Base": "Sweat",
+		"PastSimple": "Sweat",
+		"PastParticiple": "Sweat",
+		"GerundAndPresentParticiple": "Sweating"
+	},
+	{
+		"Base": "Sweep",
+		"PastSimple": "Swept",
+		"PastParticiple": "Swept",
+		"GerundAndPresentParticiple": "Sweeping"
+	},
+	{
+		"Base": "Swell",
+		"PastSimple": "Swelled",
+		"PastParticiple": "Swollen",
+		"GerundAndPresentParticiple": "Swelling"
+	},
+	{
+		"Base": "Swim",
+		"PastSimple": "Swam",
+		"PastParticiple": "Swum",
+		"GerundAndPresentParticiple": "Swimming"
+	},
+	{
+		"Base": "Swing",
+		"PastSimple": "Swung",
+		"PastParticiple": "Swung",
+		"GerundAndPresentParticiple": "Swinging"
+	},
+	{
+		"Base": "Take",
+		"PastSimple": "Took",
+		"PastParticiple": "Taken",
+		"GerundAndPresentParticiple": "Taking"
+	},
+	{
+		"Base": "Teach",
+		"PastSimple": "Taught",
+		"PastParticiple": "Taught",
+		"GerundAndPresentParticiple": "Teaching"
+	},
+	{
+		"Base": "Tear",
+		"PastSimple": "Tore",
+		"PastParticiple": "Torn",
+		"GerundAndPresentParticiple": "Tearing"
+	},
+	{
+		"Base": "Tell",
+		"PastSimple": "Told",
+		"PastParticiple": "Told",
+		"GerundAndPresentParticiple": "Telling"
+	},
+	{
+		"Base": "Think",
+		"PastSimple": "Thought",
+		"PastParticiple": "Thought",
+		"GerundAndPresentParticiple": "Thinking"
+	},
+	{
+		"Base": "Thrive",
+		"PastSimple": "Throve",
+		"PastParticiple": "Thriven",
+		"GerundAndPresentParticiple": "Thriving"
+	},
+	{
+		"Base": "Throw",
+		"PastSimple": "Threw",
+		"PastParticiple": "Thrown",
+		"GerundAndPresentParticiple": "Throwing"
+	},
+	{
+		"Base": "Thrust",
+		"PastSimple": "Thrust",
+		"PastParticiple": "Thrust",
+		"GerundAndPresentParticiple": "Thrusting"
+	},
+	{
+		"Base": "Tread",
+		"PastSimple": "Trod",
+		"PastParticiple": "Trodden",
+		"GerundAndPresentParticiple": "Treading"
+	},
+	{
+		"Base": "Undergo",
+		"PastSimple": "Underwent",
+		"PastParticiple": "Undergone",
+		"GerundAndPresentParticiple": "Undergoing"
+	},
+	{
+		"Base": "Understand",
+		"PastSimple": "Understood",
+		"PastParticiple": "Understood",
+		"GerundAndPresentParticiple": "Understanding"
+	},
+	{
+		"Base": "Undertake",
+		"PastSimple": "Undertook",
+		"PastParticiple": "Undertaken",
+		"GerundAndPresentParticiple": "Undertaking"
+	},
+	{
+		"Base": "Upset",
+		"PastSimple": "Upset",
+		"PastParticiple": "Upset",
+		"GerundAndPresentParticiple": "Upsetting"
+	},
+	{
+		"Base": "Vex",
+		"PastSimple": "Vext/Vexed",
+		"PastParticiple": "Vext/Vexed",
+		"GerundAndPresentParticiple": "Vexing"
+	},
+	{
+		"Base": "Wake",
+		"PastSimple": "Woke",
+		"PastParticiple": "Woken",
+		"GerundAndPresentParticiple": "Waking"
+	},
+	{
+		"Base": "Wear",
+		"PastSimple": "Wore",
+		"PastParticiple": "Worn",
+		"GerundAndPresentParticiple": "Wearing"
+	},
+	{
+		"Base": "Weave",
+		"PastSimple": "Wove",
+		"PastParticiple": "Woven",
+		"GerundAndPresentParticiple": "Weaving"
+	},
+	{
+		"Base": "Wed",
+		"PastSimple": "Wed",
+		"PastParticiple": "Wed",
+		"GerundAndPresentParticiple": "Wedding"
+	},
+	{
+		"Base": "Weep",
+		"PastSimple": "Wept",
+		"PastParticiple": "Wept",
+		"GerundAndPresentParticiple": "Weeping"
+	},
+	{
+		"Base": "Wend",
+		"PastSimple": "Went",
+		"PastParticiple": "Went",
+		"GerundAndPresentParticiple": "Wending"
+	},
+	{
+		"Base": "Wet",
+		"PastSimple": "Wet",
+		"PastParticiple": "Wet",
+		"GerundAndPresentParticiple": "Wetting"
+	},
+	{
+		"Base": "Win",
+		"PastSimple": "Won",
+		"PastParticiple": "Won",
+		"GerundAndPresentParticiple": "Winning"
+	},
+	{
+		"Base": "Wind",
+		"PastSimple": "Wound",
+		"PastParticiple": "Wound",
+		"GerundAndPresentParticiple": "Winding"
+	},
+	{
+		"Base": "Withdraw",
+		"PastSimple": "Withdrew",
+		"PastParticiple": "Withdrawn",
+		"GerundAndPresentParticiple": "Withdrawing"
+	},
+	{
+		"Base": "Withhold",
+		"PastSimple": "Withheld",
+		"PastParticiple": "Withheld",
+		"GerundAndPresentParticiple": "Withholding"
+	},
+	{
+		"Base": "Withstand",
+		"PastSimple": "Withstood",
+		"PastParticiple": "Withstood",
+		"GerundAndPresentParticiple": "Withstanding"
+	},
+	{
+		"Base": "Wring",
+		"PastSimple": "Wrung",
+		"PastParticiple": "Wrung",
+		"GerundAndPresentParticiple": "Wringing"
+	},
+	{
+		"Base": "Write",
+		"PastSimple": "Wrote",
+		"PastParticiple": "Written",
+		"GerundAndPresentParticiple": "Writing"
+	},
+	{
+		"Base": "Zinc",
+		"PastSimple": "Zincked",
+		"PastParticiple": "Zincked",
+		"GerundAndPresentParticiple": "Zincking"
+	}
+]

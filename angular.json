@@ -17,14 +17,16 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/iregular-verbs-list",
+            "outputPath": "dist/irregular-verbs-list",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.json",
+              "src/irregular-verbs.json"
             ],
             "styles": [
               "src/styles.css"
@@ -68,10 +70,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "IregularVerbsList:build:production"
+              "browserTarget": "IrregularVerbsList:build:production"
             },
             "development": {
-              "browserTarget": "IregularVerbsList:build:development"
+              "browserTarget": "IrregularVerbsList:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +81,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "IregularVerbsList:build"
+            "browserTarget": "IrregularVerbsList:build"
           }
         },
         "test": {
@@ -91,16 +93,29 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/irregular-verbs.json"
             ],
             "styles": [
               "src/styles.css"
             ],
             "scripts": []
           }
+        },
+        "lint": {
+          "builder": "@angular-eslint/builder:lint",
+          "options": {
+            "lintFilePatterns": [
+              "src/**/*.ts",
+              "src/**/*.html"
+            ]
+          }
         }
       }
     }
   },
-  "defaultProject": "IregularVerbsList"
+  "defaultProject": "IrregularVerbsList",
+  "cli": {
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }

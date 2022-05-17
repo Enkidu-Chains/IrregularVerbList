@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/iregular-verbs-list'),
+      dir: require('path').join(__dirname, './coverage/irregular-verbs-list'),
       subdir: '.',
       reporters: [
         { type: 'html' },
@@ -39,6 +39,6 @@ module.exports = function (config) {
     autoWatch: true,
     browsers: ['Chrome'],
     singleRun: false,
-    restartOnFileChange: true
+    restartOnFileChange: true,
   });
 };
