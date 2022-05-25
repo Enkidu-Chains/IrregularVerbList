@@ -1,1 +1,30 @@
-
+<!--<app-header></app-header>-->
+<!--<app-main></app-main>-->
+<!--<app-footer></app-footer>-->
+<header>
+	<span class="title">{{title}}</span>
+</header>
+<main>
+	<input placeholder="Type" type="text" #text (input)="resetIrregularVerbs(text.value)"/>
+	<div>
+		<table>
+			<tr>
+				<th class="number"><span>#</span></th>
+				<th><span>Base</span></th>
+				<th><span>Past Simple</span></th>
+				<th><span>Past Participle</span></th>
+				<th><span>Gerund /<br/>Pres. Participle</span></th>
+			</tr>
+			<tr *ngFor="let irregularVerb of irregularVerbs">
+				<td class="number"><span>{{irregularVerbs ? irregularVerbs.indexOf(irregularVerb) + 1 : null}}</span></td>
+				<td><span>{{irregularVerb.Base}}</span></td>
+				<td><span>{{irregularVerb.PastSimple }}</span></td>
+				<td><span>{{irregularVerb.PastParticiple}}</span></td>
+				<td><span>{{irregularVerb.GerundAndPresentParticiple}}</span></td>
+			</tr>
+		</table>
+	</div>
+</main>
+<footer>
+	<span><a href="{{githubRepositoryHRef}}">GitHub Repository</a></span>
+</footer>

@@ -1,0 +1,71 @@
+header {
+	width: 100%;
+	padding-bottom: 2px;
+	margin-bottom: 1rem;
+	border-bottom: 2px solid #9C9290;
+	border-bottom-width: thin;
+}
+
+.title {
+	font-size: 2rem
+}
+
+input {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1rem;
+	border: 1px solid #9C9290;
+	font-size: 1rem;
+	margin-bottom: 2px;
+}
+
+input:focus {
+	outline: none;
+}
+
+main {
+	width: 100%;
+}
+
+div {
+	overflow-y: scroll;
+	height: 300px;
+	width: 100%;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid #9C9290;
+	border-collapse: collapse;
+}
+
+td {
+	padding: 0.25rem;
+	text-align: center;
+	vertical-align: middle;
+}
+
+td.number {
+	padding: 0;
+}
+
+th {
+	width: 24%;
+	padding: 0.25rem;
+}
+
+th.number {
+	width: 4%;
+	padding: 0;
+}
+
+footer {
+	width: 100%;
+	padding-top: 2px;
+	margin-top: 1rem;
+	border-top: 2px solid #9C9290;
+	border-top-width: thin;
+}

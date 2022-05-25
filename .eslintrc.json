@@ -21,19 +21,25 @@
 			],
       "rules": {
 				"semi": "off",
-				"@typescript-eslint/semi": ["error"],
 				"semi-spacing": "warn",
 				"newline-before-return": "warn",
-        "@angular-eslint/directive-selector": [
-          "error",
-          {
-            "type": "attribute",
-            "prefix": "app",
-            "style": "camelCase"
-          }
-        ],
-        "@angular-eslint/component-selector": [
-          "error",
+				"no-var": "off",
+				"@typescript-eslint/no-inferrable-types": [
+					"off"
+				],
+				"@typescript-eslint/semi": [
+					"error"
+				],
+				"@angular-eslint/directive-selector": [
+					"error",
+					{
+						"type": "attribute",
+						"prefix": "app",
+						"style": "camelCase"
+					}
+				],
+				"@angular-eslint/component-selector": [
+					"error",
           {
             "type": "element",
             "prefix": "app",
